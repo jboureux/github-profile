@@ -4,7 +4,7 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=jboureux&show_icons=true&locale=en&theme=material-palenight)
 
 ## About Me
-- 🎓 Currently a student in **BUT Informatique** at **IUT Lyon 1**
+- 🎓 Currently a student in **MBA Fullstack Developper** at **MyDigitalSchool Paris**
 - 🌱 I’m currently learning **Computer Science**
 - 📫 You want to contact me ? **jeremyboureux@gmail.com**
 <!-- - 👨‍💻 All of my projects are available at [https://jboureux.fr](https://jboureux.fr) -->
